@@ -1,0 +1,6 @@
+/* chamando o HTML, podemos definir um padrão para toda a página */
+
+html{
+    background-color: #09090b;
+    color: #FAFAFA;
+}
